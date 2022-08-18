@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-adminPanel-horseadmin/static/css/main.89322a08.css",
+    "main.js": "/React-adminPanel-horseadmin/static/js/main.81bc5714.js",
+    "index.html": "/React-adminPanel-horseadmin/index.html",
+    "main.89322a08.css.map": "/React-adminPanel-horseadmin/static/css/main.89322a08.css.map",
+    "main.81bc5714.js.map": "/React-adminPanel-horseadmin/static/js/main.81bc5714.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89322a08.css",
+    "static/js/main.81bc5714.js"
+  ]
+}
